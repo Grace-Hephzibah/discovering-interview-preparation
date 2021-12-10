@@ -1,2 +1,2 @@
 # Coding-Questions
-Question in these repositories are questions from real interviews
+The questions you find here were questions from real interviews
